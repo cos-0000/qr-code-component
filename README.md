@@ -20,8 +20,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FM-QR code-repo](https://github.com/cos-0000/qr-code-component)
+- Live Site URL: [FM-QR code-component](https://cos-0000.github.io/qr-code-component/)
 
 ## My process
 
@@ -35,5 +35,5 @@
 
 
 ## Author
-- Frontend Mentor - [@cos-0000](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@cos-0000](https://www.frontendmentor.io/profile/cos-0000)
 
